@@ -12,7 +12,7 @@
 Train on task of p->c on ImageCLEF-DA
 ```  
 cd MDAL--Multi-Directional-Adversarial-Learning
-python trainxin_image_pc.py
+python trainxin_image_pc.py CDAN+E
 ```
 ## Contact  
 If you have any problem about our code, feel free to contact jkhuang@cqu.edu.cn
